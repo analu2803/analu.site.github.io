@@ -1,0 +1,186 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container
+{
+    width: 1440px;
+    background-color:rgb(255, 255, 255) ;
+}
+header
+{
+    width: 1440px;
+    height: 165px;
+    background-color: #C3D5D5;
+}
+.logo
+{
+    width: 152px;
+    height: 157px;
+    margin-left: 65px;
+    margin-top: 5px;
+}
+.logos
+{
+    display: flex;
+    align-items: center;
+}
+
+.logo img
+{
+    width: 100%;
+}
+nav
+{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    color: #ffffff;
+    font-family: 'Joti One', cursive;
+    justify-content: space-between;
+}
+.menu
+{
+    height: 25px;
+    width: 648px;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    font-family: 'Krona One', sans-serif;  
+    font-size: 15px;
+    gap: 30px;    
+    list-style-type: none;
+    margin-bottom: 0px;
+}
+.menu a
+{
+    text-decoration: none;
+    align-items: center;
+    color: #ffffff;
+}
+main
+{
+    width: 1440px;
+    height: 749px;
+}
+.caixa0
+{
+    margin-top: -180px;
+    margin-left: 34px;
+    width: 1365px;
+    height: 531px;
+    border-radius: 29px;
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #C3D5D5;
+}
+.caixa1
+{
+    margin-top: 60px;
+    margin-left: 24px;
+    margin-right: 225x;
+    width: 1388px;
+    height: 260px;
+    border-radius: 107px;
+    background-color: #C3D5D5;
+}
+.bloco0
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 50px;
+    /*background-color: #C3D5D5;*/
+    background-image: url(https://d3ugyf2ht6aenh.cloudfront.net/stores/813/050/products/image-301-a047b15066894a05b216577401761383-1024-1024.jpg);
+    background-size: 100%;
+    margin-top: -450px;
+    margin-left: 100px;
+}
+.bloco1
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 50px;
+    /*background-color: #C3D5D5;*/
+    background-image: url(https://m.media-amazon.com/images/I/81HLbiMY1YL._AC_SL1500_.jpg);
+    background-size: 100%;
+    margin-top: -250px;
+    margin-left: 450px;
+}
+.bloco2
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 50px;
+    /*background-color: #C3D5D5;*/
+    background-image: url(https://img.freepik.com/premium-photo/seamless-pattern-with-green-leaves-eucalyptus-blue-berries-hand-made-illustration_542112-283.jpg?w=740);
+    background-size: 100%;
+    margin-top: -250px;
+    margin-left: 780px;
+}
+.bloco3
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 50px;
+    /*background-color: #C3D5D5;*/
+    background-image: url(https://cdn.leroymerlin.com.br/products/papel_de_parede_vinilico_arabesco_folhinhas_verde_52cmx9,5m_91849940_0001_600x600.jpg);
+    background-size: 100%;
+    margin-top: -250px;
+    margin-left: 1100px;
+}
+.text0
+{
+    color: black;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 225x;
+    align-items: center;
+    font-family: 'Hind Guntur', sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+.text1
+{
+    color: black;
+    display: flex;
+    margin-top: -65px;
+    margin-left: 510px;
+    margin-right: 225x;
+    align-items: center;
+    font-family: 'Hind Guntur', sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+.text2
+{
+    color: black;
+    display: flex;
+    margin-top: -85px;
+    margin-left: 850px;
+    margin-right: 225x;
+    align-items: center;
+    font-family: 'Hind Guntur', sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+.text3
+{
+    color: black;
+    display: flex;
+    margin-top: -65px;
+    margin-left: 1170px;
+    margin-right: 225x;
+    align-items: center;
+    font-family: 'Hind Guntur', sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+footer
+{
+    width: 1440px;
+    height: 110px;
+    background-color: #C3D5D5;
+    margin-top: -60px;
+    align-items: center;
+}
